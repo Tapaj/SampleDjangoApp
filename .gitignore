@@ -1,0 +1,12 @@
+# Editor configutaion files
+.vscode
+.idea
+
+# Python virtual environment files
+venv
+
+# Python cache files
+*.pyc
+
+# DB files
+db.sqlite3
